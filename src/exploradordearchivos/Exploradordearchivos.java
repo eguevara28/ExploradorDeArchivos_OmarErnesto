@@ -19,7 +19,7 @@ public class Exploradordearchivos extends JFrame {
     private File currentDirectory;
 
     public Exploradordearchivos() {
-        setTitle("File Organizer");
+        setTitle("Explorador de Archivos, Omar y Ernesto");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
